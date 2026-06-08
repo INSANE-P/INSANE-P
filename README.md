@@ -2,9 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48C9B0,50:5DADE2,100:F7DC6F&height=200&section=header&animation=fadeIn" />
 
+![GREEDY](https://img.shields.io/badge/GREEDY-2기_→_3기_리드_→_4기_메인테이너-2EA043?style=for-the-badge&logo=github&logoColor=white)
+
+
 # 🌴 여행 좋아하는 장난꾸러기 개발자
 
+
 ### 국내든 해외든, 시간과 돈만 있으면 일단 떠납니다 ✈️
+
 
 <br/>
 
