@@ -3,8 +3,7 @@
   <img src="assets/header-light.svg" alt="PARK CHANBIN - Software Engineer, Frontend" width="100%" />
 </picture>
 
-동네에서 사람과 사람이 만나게 하는 서비스를 만드는 프론트엔드 개발자입니다.
-주로 React와 TypeScript로 만들고, 앱이 필요하면 Flutter를 씁니다.
+여행을 좋아하고, 재미있어 보이는 건 일단 만들어보는 개발자입니다.
 
 <br />
 
