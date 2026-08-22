@@ -12,7 +12,7 @@
   <img src="assets/label-projects-light.svg" alt="PROJECTS" />
 </picture>
 
-`2025.10 ~` &nbsp; [**경찰과 도둑**](https://copsnro66ers.site/) · 위치 기반 실시간 멀티플레이어 게임 · App Store, Google Play 출시
+`2025.10 ~` &nbsp; [**경찰과 도둑**](https://copsandrobbers.app/) · 위치 기반 실시간 멀티플레이어 게임 · App Store, Google Play 출시
 
 `2025.12 ~` &nbsp; [**올클**](https://allcll.kr) · 세종대학교 수강신청 도우미
 
@@ -38,4 +38,4 @@
   <img src="assets/label-links-light.svg" alt="LINKS" />
 </picture>
 
-[portfolio.chanbin.dev](https://portfolio.chanbin.dev) &nbsp;·&nbsp; chanbin0626@gmail.com
+chanbin0626@gmail.com
